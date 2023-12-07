@@ -51,6 +51,6 @@ The LSTM model emerged as the most effective, achieving the lowest Mean Absolute
 
 ## Project 3: BI Analytics for Video Game Industry
 
- <img src="" alt="Project Image" width="300" height="200">
+ <img src="https://github.com/FarzanehMeshkinghalam/SQL-codes/blob/67326d30c405dadf1c44e45d47a13a698d068dad/BI.jpeg" alt="Project Image" width="300" height="200">
 
 
