@@ -57,6 +57,6 @@ The LSTM model emerged as the most effective, achieving the lowest Mean Absolute
  **GitHub Repository:**[Link to Repository](https://github.com/FarzanehMeshkinghalam/SQL-codes/blob/67326d30c405dadf1c44e45d47a13a698d068dad/Video%20Games.sql)
 
  **Tableau Dashboard for Marketing Optimization:** In the second part of this porject, a Tableau dashboard focuses on optimizing marketing and sales in the gaming industry. Balancing demand and supply, the dashboard unfolds a compelling story guiding viewers through key insights and trends. Detailed analyses of game titles, genres, and sales figures empower decision-makers in tailoring marketing strategies based on player preferences and market dynamics. The dashboard enhances visibility, guides strategic decision-making, and showcases proficiency in leveraging data visualization for success in the video game business.
-**GitHub Repository:**
+**GitHub Repository:**[Link to Repository](https://github.com/FarzanehMeshkinghalam/Tableaue-Dashboards/blob/8a9a078acd9b892d1636750f7951f376c7645ed3/Optimizing%20Marketing%20and%20Sales.twb)
 
 
