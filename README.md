@@ -17,7 +17,7 @@ I employed three Convolutional Neural Network (CNN) models, each with distinct l
 **Outcome:**
 After rigorous training and testing, the CNN models achieved an accuracy of 80.50% in detecting defective steel images. This project not only demonstrates my proficiency in implementing CNNs for image classification but also addresses a real-world challenge in quality control within the steel production process.
 **GitHub Repository:**
-[Link to Repository](https://github.com/FarzanehMeshkinghalam/Python_Projects/Steel_Defect_Detection.ipynb)
+[Link to Repository](https://github.com/FarzanehMeshkinghalam/Python_Projects)
 
 
 
