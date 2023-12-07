@@ -26,7 +26,7 @@ After rigorous training and testing, the CNN models achieved an accuracy of 80.5
 
 ## Project 2: Demand Forecasting for Delivery Industry based on Deep Learning for Time Series
 
- <img src="https://github.com/FarzanehMeshkinghalam/Python_Projects/raw/7a8557d3755c020d0ce9a29dc5e0a4e4167649d0/robot-0_nouvelle.jpg" alt="Project Image" width="300" height="200">
+ <img src="https://github.com/FarzanehMeshkinghalam/Python_Projects/blob/e43220df6ff88f4cde8418241e4d7d877a01020d/demand-forecasting.jpg" alt="Project Image" width="300" height="200">
 
 **Objective:** Forecast the number of orders for the next 10 weeks based on historical data.
 
