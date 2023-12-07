@@ -3,7 +3,7 @@
 
 ![Your GitHub Profile Photo](https://avatars.githubusercontent.com/u/140073903?s=400&u=1a7246a6029322034f4a484357ee46ca4bb70812&v=4)
 
-
+<img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" alt="Your GitHub Profile Photo" width="150" height="150">
 # Farzaneh Meshkinghalam
 ### Welcome to my GitHub portfolio! I'm a passionate Data Analyst with a focus on AI. Explore my projects below to see some of my work.
 
