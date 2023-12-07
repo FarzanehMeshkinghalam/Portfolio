@@ -5,7 +5,7 @@
 # Farzaneh Meshkinghalam
 ### Welcome to my GitHub portfolio! I'm a passionate Data Analyst with a focus on AI. Explore my projects below to see some of my work.
 
-## Project 1: Steel Defect Detection using CNN
+## Project 1: Steel Defect Detection using CNN          
 
 **Objective:** Identify defects in steel production.
 
