@@ -49,6 +49,8 @@ The LSTM model emerged as the most effective, achieving the lowest Mean Absolute
 **GitHub Repository:**
 [Link to Repository](https://github.com/FarzanehMeshkinghalam/Python_Projects/blob/e43220df6ff88f4cde8418241e4d7d877a01020d/Demand_forecasting.ipynb)
 
+## Project 3: BI Analytics for Video Game Industry
 
+ <img src="" alt="Project Image" width="300" height="200">
 
 
