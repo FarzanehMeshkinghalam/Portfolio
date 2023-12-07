@@ -47,7 +47,7 @@ Utilizing both traditional machine learning models (Random Forest and XGBoost) a
 **Evaluation:**
 The LSTM model emerged as the most effective, achieving the lowest Mean Absolute Error (MAE) of 3.37 and the highest R-squared value of 0.995, establishing itself as the optimal solution for accurate demand forecasting in the delivery industry based on historical time series data.
 **GitHub Repository:**
-[Link to Repository]()
+[Link to Repository](https://github.com/FarzanehMeshkinghalam/Python_Projects/blob/e43220df6ff88f4cde8418241e4d7d877a01020d/Demand_forecasting.ipynb)
 
 
 
