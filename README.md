@@ -24,7 +24,7 @@ After rigorous training and testing, the CNN models achieved an accuracy of 80.5
 [Link to Repository](https://github.com/FarzanehMeshkinghalam/Python_Projects/blob/e43953fe52b8d1ccf3a8dd003b60ec1417f544dc/Steel_Defect_Detection.ipynb)
 
 
-## Project 2: Demand Forecasting for Delivery Industry based on Deep Learning for Time Series
+## Project 2: Demand Forecasting for Delivery Industry based on Deep Learning for Time Series Analytics
 
  <img src="https://github.com/FarzanehMeshkinghalam/Python_Projects/blob/e43220df6ff88f4cde8418241e4d7d877a01020d/demand-forecasting.jpg" alt="Project Image" width="300" height="200">
 
