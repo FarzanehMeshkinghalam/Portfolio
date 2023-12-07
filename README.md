@@ -54,8 +54,9 @@ The LSTM model emerged as the most effective, achieving the lowest Mean Absolute
  <img src="https://github.com/FarzanehMeshkinghalam/SQL-codes/blob/67326d30c405dadf1c44e45d47a13a698d068dad/BI.jpeg" alt="Project Image" width="300" height="200">
 
  **Overview:** This project encompasses Business Intelligence (BI) analysis for the video game industry. The first part utilizes SQL queries and a Data Warehouse to extract vital business insights, covering event performance, gaming club and player metrics, online merchandise sales optimization, refund analysis, and stadium and referee performance. The project underscores the transformative impact of data-driven insights on optimizing operations and maximizing revenue across various facets of the video game business.
+ **GitHub Repository:**
 
  **Tableau Dashboard for Marketing Optimization:** In the second part of this porject, a Tableau dashboard focuses on optimizing marketing and sales in the gaming industry. Balancing demand and supply, the dashboard unfolds a compelling story guiding viewers through key insights and trends. Detailed analyses of game titles, genres, and sales figures empower decision-makers in tailoring marketing strategies based on player preferences and market dynamics. The dashboard enhances visibility, guides strategic decision-making, and showcases proficiency in leveraging data visualization for success in the video game business.
-
+**GitHub Repository:**
 
 
