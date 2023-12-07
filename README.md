@@ -26,33 +26,6 @@ After rigorous training and testing, the CNN models achieved an accuracy of 80.5
 
 ## Project 2: Demand Forecasting for Delivery Industry based on Deep Learning for Time Series
 
-# Projects
-
-## Project 1: Steel Defect Detection using CNN
-
-**Objective:** Detect defects in steel production.
-
-**Dataset:**
-- Training Set: 12,568 images
-- Test Set: 5,506 images
-
-**Approach:**
-I implemented three Convolutional Neural Network (CNN) models, each tailored with unique layers and hyperparameters. The models underwent training using a diverse dataset that encompassed various defects in steel.
-
-**Outcome:**
-After intensive training and testing, the CNN models demonstrated an impressive accuracy of 80.50% in identifying defective steel images. This project serves as a testament to my adeptness in deploying CNNs for image classification while tackling a significant real-world challenge in enhancing quality control within the steel production process.
-
-**GitHub Repository:**
-[Link to Repository](https://github.com/your-username/your-repo-name)
-
-**Live Demo:**
-[Link to Live Demo](https://www.example.com)
-
-**Project Image:**
-
-
-## Project 2: Demand Forecasting for Delivery Industry based on Deep Learning for Time Series
-
  <img src="https://github.com/FarzanehMeshkinghalam/Python_Projects/raw/7a8557d3755c020d0ce9a29dc5e0a4e4167649d0/robot-0_nouvelle.jpg" alt="Project Image" width="300" height="200">
 
 **Objective:** Forecast the number of orders for the next 10 weeks based on historical data.
