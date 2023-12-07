@@ -1,5 +1,9 @@
 # My Portfolio
 
+
+![Your GitHub Profile Photo](https://avatars.githubusercontent.com/u/140073903?s=400&u=1a7246a6029322034f4a484357ee46ca4bb70812&v=4)
+
+
 # Farzaneh Meshkinghalam
 ### Welcome to my GitHub portfolio! I'm a passionate Data Analyst with a focus on AI. Explore my projects below to see some of my work.
 
