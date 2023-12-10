@@ -70,4 +70,4 @@ The LSTM model emerged as the most effective, achieving the lowest Mean Absolute
 **ScreenShot of Polynomial Regression Workflowe:**[Link to Repository](https://github.com/FarzanehMeshkinghalam/Knime_Projects/blob/52c976777040b2daf8bd756eac2416f99088fbe0/regression1.png) 
 **ScreenShot of Random forest Regression Workflowe:**[Link to Repository](https://github.com/FarzanehMeshkinghalam/Knime_Projects/blob/52c976777040b2daf8bd756eac2416f99088fbe0/regression2.png)
 **ScreenShot of K-Means Clustering Workflowe:**[Link to Repository](https://github.com/FarzanehMeshkinghalam/Knime_Projects/blob/52c976777040b2daf8bd756eac2416f99088fbe0/clustering.k%20means.png)
-**ScreenShot of Hierchical clustering Workflowe:**[Link to Repository](https://github.com/FarzanehMeshkinghalam/Knime_Projects/blob/52c976777040b2daf8bd756eac2416f99088fbe0/hirectical%20clustering.png)
+**ScreenShot of Hierarchical clustering Workflowe:**[Link to Repository](https://github.com/FarzanehMeshkinghalam/Knime_Projects/blob/52c976777040b2daf8bd756eac2416f99088fbe0/hirectical%20clustering.png)
