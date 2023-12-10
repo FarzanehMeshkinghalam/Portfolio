@@ -62,5 +62,5 @@ The LSTM model emerged as the most effective, achieving the lowest Mean Absolute
 
 ## Project 4: Data Analytics Mastery with KNIME: Unveiling Insights from the 2011 UK Census Dataset
 
-
+<img src="https://github.com/FarzanehMeshkinghalam/Knime_Projects/blob/52c976777040b2daf8bd756eac2416f99088fbe0/charts-plots-and-vis.png" alt="Project Image" width="300" height="200">
 
