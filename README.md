@@ -66,4 +66,4 @@ The LSTM model emerged as the most effective, achieving the lowest Mean Absolute
 
  **Overview:** In this Applied Data Analytics project, I utilized KNIME to analyze the 2011 UK Census dataset, comprising 569,741 entries. The project encompassed descriptive analytics, classification using Decision Tree, Naïve Bayes, and Random Forest algorithms, regression on the "No of hours" attribute with Polynomial and Random Forest algorithms, association rule mining, and clustering through K-Means and Hierarchical methods. The diverse set of tasks demonstrated a holistic approach to data analysis, enhancing my technical skills in machine learning and providing valuable insights into algorithmic strengths and limitations. 
 **GitHub Repository:**[Link to Repository](https://github.com/FarzanehMeshkinghalam/Knime_Projects/blob/52c976777040b2daf8bd756eac2416f99088fbe0/Knime_ptoject.knwf)
-**ScreenShots of Workflowes:**[Link to Repository]()()()()()
+**ScreenShots of Workflowes:**[Link to Repository](https://github.com/FarzanehMeshkinghalam/Knime_Projects/blob/52c976777040b2daf8bd756eac2416f99088fbe0/descriptive%20analytics.png)()()()()
